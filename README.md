@@ -56,7 +56,7 @@ Get the files onto the server. Server 2022 ships with a locked-down browser, so 
 
 ```powershell
 New-Item -Path C:\lab -ItemType Directory -Force
-Invoke-WebRequest -Uri 'https://github.com/<YOUR-ORG>/cloud-server-health-card/archive/refs/heads/main.zip' `
+Invoke-WebRequest -Uri 'https://github.com/shubhambanik696/cloud-server-health-card/archive/refs/heads/main.zip' `
                   -OutFile C:\lab\lab.zip -UseBasicParsing
 Expand-Archive C:\lab\lab.zip -DestinationPath C:\lab -Force
 cd C:\lab\cloud-server-health-card-main
