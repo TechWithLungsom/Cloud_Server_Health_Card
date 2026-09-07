@@ -21,12 +21,12 @@ These details correspond to the parameters defined in `deployment.json`:
 
 | Checkpoint | Description | Screenshot |
 | :--- | :--- | :--- |
-| **Checkpoint 1** | Windows Server 2022 Desktop with Server Manager Open | `![Checkpoint 1]([screenshots/checkpoint-1.png](https://github.com/TechWithLungsom/Cloud_Server_Health_Card/blob/main/screenshots/checkpoint-1.png))` |
-| **Checkpoint 2** | IIS Manager showing `HealthCard` website started on Port 80 | `![Checkpoint 2]([screenshots/checkpoint-2.png](https://github.com/TechWithLungsom/Cloud_Server_Health_Card/blob/main/screenshots/checkpoint-2.png))` |
-| **Checkpoint 3** | Health Card dashboard loading locally with hostname and dual IPs | `![Checkpoint 3]([screenshots/checkpoint-3.png](https://github.com/TechWithLungsom/Cloud_Server_Health_Card/blob/main/screenshots/checkpoint-3.png))` |
-| **Checkpoint 4** | Scheduled Task heartbeat strip showing 5+ collector executions | `![Checkpoint 4]([screenshots/checkpoint-4.png](https://github.com/TechWithLungsom/Cloud_Server_Health_Card/blob/main/screenshots/checkpoint-4.png))` |
-| **Checkpoint 5** | Health Card accessed from client browser (Mac) via Public IPv4 | `![[Checkpoint 5](screenshots/checkpoint-5.png)](https://github.com/TechWithLungsom/Cloud_Server_Health_Card/blob/main/screenshots/checkpoint-5.png)` |
-| **Checkpoint 6** | Automated verification test suite showing all 9 checks PASS | `![[Checkpoint 6](screenshots/checkpoint-6.png)](https://github.com/TechWithLungsom/Cloud_Server_Health_Card/blob/main/screenshots/checkpoint-6.png)` |
+| **Checkpoint 1** | Windows Server 2022 Desktop with Server Manager Open | ![Checkpoint 1](https://raw.githubusercontent.com/TechWithLungsom/Cloud_Server_Health_Card/main/screenshots/checkpoint-1.png) |
+| **Checkpoint 2** | IIS Manager showing `HealthCard` website started on Port 80 | ![Checkpoint 2](https://raw.githubusercontent.com/TechWithLungsom/Cloud_Server_Health_Card/main/screenshots/checkpoint-2.png) |
+| **Checkpoint 3** | Health Card dashboard loading locally with hostname and dual IPs | ![Checkpoint 3](https://raw.githubusercontent.com/TechWithLungsom/Cloud_Server_Health_Card/main/screenshots/checkpoint-3.png) |
+| **Checkpoint 4** | Scheduled Task heartbeat strip showing 5+ collector executions | ![Checkpoint 4](https://raw.githubusercontent.com/TechWithLungsom/Cloud_Server_Health_Card/main/screenshots/checkpoint-4.png) |
+| **Checkpoint 5** | Health Card accessed from client browser (Mac) via Public IPv4 | ![Checkpoint 5](https://raw.githubusercontent.com/TechWithLungsom/Cloud_Server_Health_Card/main/screenshots/checkpoint-5.png) |
+| **Checkpoint 6** | Automated verification test suite showing all 9 checks PASS | ![Checkpoint 6](https://raw.githubusercontent.com/TechWithLungsom/Cloud_Server_Health_Card/main/screenshots/checkpoint-6.png) |
 
 ---
 
